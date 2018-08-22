@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <VersionName>dotOS-O-v2.5-a5xelte-OFFICIAL-201808XX</VersionName>
+  <VersionNumber type="integer">201807XX</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-2-x/files/a5xelte/dotOS-O-v2.5-a5xelte-OFFICIAL-201808XX.zip</DirectUrl>
+  <Android>8.1.0</Android>
+  <CheckMD5>XX</CheckMD5>
+  <FileSize type="integer">XX</FileSize>
+  <Changelog>
+	<System>dotOS 2.5 Release</System>
+	<Settings>Neo theme</Settings>
+	<Misc>Qs panel Customisation</Misc>
+	<SecurityPatch>August XXth 2018</SecurityPatch>
+  </Changelog>
+</ROM>
