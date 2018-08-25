@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <VersionName>dotOS-O-v2.4-land-OFFICIAL-20180723</VersionName>
+  <VersionNumber type="integer">20180723</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-2-x/files/land/dotOS-O-v2.4-land-OFFICIAL-20180723.zip</DirectUrl>
+  <Android>8.1.0</Android>
+  <CheckMD5>e143f7192ddaa64af10f4fddefe6bafa</CheckMD5>
+  <FileSize type="integer">526000000</FileSize>
+  <Changelog>
+	<System>dotOS 2.4 Release</System>
+	<Settings>Neo theme</Settings>
+	<Misc>Qs panel Customisation</Misc>
+	<SecurityPatch>July 05th 2018</SecurityPatch>
+  </Changelog>
+</ROM>
