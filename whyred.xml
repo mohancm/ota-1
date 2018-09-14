@@ -5,36 +5,11 @@
   <DirectUrl>https://sourceforge.net/projects/dotos-2-x/files/whyred/dotOS-O-v2.5-whyred-OFFICIAL-20180914.zip</DirectUrl>
   <Android>8.1.0</Android>
   <CheckMD5>529444f31586f764c7a76120ed02c123</CheckMD5>
-  <FileSize type="integer">751413253</FileSize>
+  <FileSize type="integer">751397452</FileSize>
   <Changelog>
-Rom Changelogs:-
-September Security Patches (8.1.0_r46).
-Fixed DND Tile.
-Fixed Screenshot Delete in notifications.
-Allow using 4G icon instead LTE in Statusbar.
-Fixed VPN status dialog.
-Fixed Maintainers URL fetching issue.
-Updated few Apns.
-Added support for Snapdragon 845 devices.
-Added Call Recording Feature.
-Added Phone Number Lookup feature.
-Added Auto record feature in dailer.
-Added Call statistics.
-Some dailer app Improvements.
-Added Alarm Blocker.
-Added Smart Pixels feature.
-Added Pocket Mode.
-UI/UX improvements.
-Carrier Signal Improvements.
-Performance improvement and bug fixes.
-New icon for Recorder.
-Misc fixes and Under the hood improvements.
-Check Github and Gerrit for More information.
-
-Device Specific:-
-Lattest Derp kernel.
-Added Xthermal fast charge v4.
-Added MIUI cam.
-
+	<System>dotOS 2.5 Final Release</System>
+	<Settings>Bug Fixes</Settings>
+	<Misc>Complete changlogs: https://blog.droidontime.com/changes/changelog%202.5.html</Misc>
+	<SecurityPatch>September 05th 2018</SecurityPatch>
   </Changelog>
 </ROM>
