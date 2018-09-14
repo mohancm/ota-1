@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <VersionName>dotOS-O-v2.5-potter-OFFICIAL-20180914</VersionName>
+  <VersionNumber type="integer">20180914</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-2-x/files/potter/dotOS-O-v2.5-potter-OFFICIAL-20180914.zip</DirectUrl>
+  <Android>8.1.0</Android>
+  <CheckMD5>8368ba9b8c0d086727b50bc0d700fd42</CheckMD5>
+  <FileSize type="integer">569114717</FileSize>
+  <Changelog>
+	<System>dotOS 2.5 Final Release</System>
+	<Settings>Bug Fixes</Settings>
+	<Misc>Complete changlogs: https://blog.droidontime.com/changes/changelog%202.5.html</Misc>
+	<SecurityPatch>September 05th 2018</SecurityPatch>
+  </Changelog>
+</ROM>
