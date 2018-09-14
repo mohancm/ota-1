@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <VersionName>dotOS-O-v2.5-hlte-OFFICIAL-20180914</VersionName>
+  <VersionNumber type="integer">20180914</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-2-x/files/hlte/dotOS-O-v2.5-hlte-OFFICIAL-20180914.zip</DirectUrl>
+  <Android>8.1.0</Android>
+  <CheckMD5>7311094faaa62ef98e5310c473fc8f6a</CheckMD5>
+  <FileSize type="integer">334144212</FileSize>
+  <Changelog>
+	<System>dotOS 2.5 Final Release</System>
+	<Settings>Bug Fixes</Settings>
+	<Misc>Complete changlogs: https://blog.droidontime.com/changes/changelog%202.5.html</Misc>
+	<SecurityPatch>September 05th 2018</SecurityPatch>
+  </Changelog>
+</ROM>
