@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-  <VersionName>dotOS-O-v2.4-rolex-OFFICIAL-20180722</VersionName>
-  <VersionNumber type="integer">20180722</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-2-x/files/rolex/dotOS-O-v2.4-rolex-OFFICIAL-20180722.zip/download</DirectUrl>
+  <VersionName>dotOS-O-v2.5-rolex-OFFICIAL-20180914</VersionName>
+  <VersionNumber type="integer">20180914</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-2-x/files/rolex/dotOS-O-v2.5-rolex-OFFICIAL-20180914.zip</DirectUrl>
   <Android>8.1.0</Android>
-  <CheckMD5>710667410bf2b1915e607753f5f80f13</CheckMD5>
-  <FileSize type="integer">460000000</FileSize>
+  <CheckMD5>f3c59e21cdda1cfa91496ae37a7fd8ee</CheckMD5>
+  <FileSize type="integer">468075726</FileSize>
   <Changelog>
-	<System>dotOS 2.4 Release</System>
-	<Settings>Neo theme</Settings>
-	<Misc>Qs panel Customisation</Misc>
-	<SecurityPatch>July 05th 2018</SecurityPatch>
+	<System>dotOS 2.5 Final Release</System>
+	<Settings>Bug Fixes</Settings>
+	<Misc>Complete changlogs: https://blog.droidontime.com/changes/changelog%202.5.html</Misc>
+	<SecurityPatch>September 05th 2018</SecurityPatch>
   </Changelog>
 </ROM>
