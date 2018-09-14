@@ -8,33 +8,33 @@
   <FileSize type="integer">751413253</FileSize>
   <Changelog>
 Rom Changelogs:-
-• September Security Patches (8.1.0_r46).
-• Fixed DND Tile.
-• Fixed Screenshot Delete in notifications.
-• Allow using 4G icon instead LTE in Statusbar.
-• Fixed VPN status dialog.
-• Fixed Maintainers URL fetching issue.
-• Updated few Apns.
-• Added support for Snapdragon 845 devices.
-• Added Call Recording Feature.
-• Added Phone Number Lookup feature.
-• Added Auto record feature in dailer.
-• Added Call statistics.
-• Some dailer app Improvements.
-• Added Alarm Blocker.
-• Added Smart Pixels feature.
-• Added Pocket Mode.
-• UI/UX improvements.
-• Carrier Signal Improvements.
-• Performance improvement and bug fixes.
-• New icon for Recorder.
-• Misc fixes and Under the hood improvements.
-• Check Github and Gerrit for More information.
+September Security Patches (8.1.0_r46).
+Fixed DND Tile.
+Fixed Screenshot Delete in notifications.
+Allow using 4G icon instead LTE in Statusbar.
+Fixed VPN status dialog.
+Fixed Maintainers URL fetching issue.
+Updated few Apns.
+Added support for Snapdragon 845 devices.
+Added Call Recording Feature.
+Added Phone Number Lookup feature.
+Added Auto record feature in dailer.
+Added Call statistics.
+Some dailer app Improvements.
+Added Alarm Blocker.
+Added Smart Pixels feature.
+Added Pocket Mode.
+UI/UX improvements.
+Carrier Signal Improvements.
+Performance improvement and bug fixes.
+New icon for Recorder.
+Misc fixes and Under the hood improvements.
+Check Github and Gerrit for More information.
 
 Device Specific:-
-• Lattest Derp kernel.
-• Added Xthermal fast charge v4.
-• Added MIUI cam.
+Lattest Derp kernel.
+Added Xthermal fast charge v4.
+Added MIUI cam.
 
   </Changelog>
 </ROM>
