@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-  <VersionName>dotOS-O-v2.4-s2-OFFICIAL-20180728</VersionName>
-  <VersionNumber type="integer">20180728</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-2-x/files/s2/dotOS-O-v2.4-s2-OFFICIAL-20180728.zip</DirectUrl>
+  <VersionName>dotOS-O-v2.5-s2-OFFICIAL-20180914</VersionName>
+  <VersionNumber type="integer">20180914</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-2-x/files/s2/dotOS-O-v2.5-s2-OFFICIAL-20180914.zip</DirectUrl>
   <Android>8.1.0</Android>
-  <CheckMD5>83bc74c62d26172757484e6f2ea00c1a</CheckMD5>
-  <FileSize type="integer">520924931</FileSize>
+  <CheckMD5>296cb1ac7defe29d19d49942242ed3ee</CheckMD5>
+  <FileSize type="integer">463483013</FileSize>
   <Changelog>
-	<System>dotOS 2.4 Release</System>
-	<Settings>Neo theme</Settings>
-	<Misc>Qs panel Customisation</Misc>
-	<SecurityPatch>July 05th 2018</SecurityPatch>
+	<System>dotOS 2.5 Final Release</System>
+	<Settings>Bug Fixes</Settings>
+	<Misc>Complete changlogs: https://blog.droidontime.com/changes/changelog%202.5.html</Misc>
+	<SecurityPatch>September 05th 2018</SecurityPatch>
   </Changelog>
 </ROM>
