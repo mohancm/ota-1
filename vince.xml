@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <VersionName>dotOS-O-v2.5-vince-OFFICIAL-20180914</VersionName>
+  <VersionNumber type="integer">20180914</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-2-x/files/vince/dotOS-O-v2.5-vince-OFFICIAL-20180914.zip</DirectUrl>
+  <Android>8.1.0</Android>
+  <CheckMD5>58f8f59ab669b27b9c521a56adbe8c5e</CheckMD5>
+  <FileSize type="integer">543757560</FileSize>
+  <Changelog>
+	<System>Important : Use This Kernel: https://forum.xda-developers.com/redmi-note-5/development/kernel-dark-ages-primero-t3809803 </System>
+	<Settings>Important : Use This Kernel: https://forum.xda-developers.com/redmi-note-5/development/kernel-dark-ages-primero-t3809803 </Settings>
+	<Misc>Complete changlogs: https://blog.droidontime.com/changes/changelog%202.5.html</Misc>
+	<SecurityPatch>September 05th 2018</SecurityPatch>
+  </Changelog>
+</ROM>
