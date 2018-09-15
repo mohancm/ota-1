@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <VersionName>dotOS-O-v2.5-osprey-OFFICIAL-20180915</VersionName>
+  <VersionNumber type="integer">20180915</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-2-x/files/osprey/dotOS-O-v2.5-osprey-OFFICIAL-20180915.zip</DirectUrl>
+  <Android>8.1.0</Android>
+  <CheckMD5>ad2afa46b231bfce632b0ecf8ff66127</CheckMD5>
+  <FileSize type="integer">328377129</FileSize>
+  <Changelog>
+	<System>dotOS 2.5 Final Release</System>
+	<Settings>Bug Fixes</Settings>
+	<Misc>Complete changlogs: https://blog.droidontime.com/changes/changelog%202.5.html</Misc>
+	<SecurityPatch>September 05th 2018</SecurityPatch>
+  </Changelog>
+</ROM>
