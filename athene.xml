@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-  <VersionName>dotOS-O-v2.4-athene-OFFICIAL-20180722</VersionName>
-  <VersionNumber type="integer">20180722</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-2-x/files/athene/dotOS-O-v2.4-athene-OFFICIAL-20180722.zip/download</DirectUrl>
+  <VersionName>dotOS-O-v2.5-athene-OFFICIAL-20180915</VersionName>
+  <VersionNumber type="integer">20180915</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-2-x/files/athene/dotOS-O-v2.5-athene-OFFICIAL-20180915.zip</DirectUrl>
   <Android>8.1.0</Android>
-  <CheckMD5>94c0b3be0c47bb872ed73b5e09820e8e</CheckMD5>
-  <FileSize type="integer">334700000</FileSize>
+  <CheckMD5>a7aee203567986e26748bf970e23581b</CheckMD5>
+  <FileSize type="integer">334795299</FileSize>
   <Changelog>
-	<System>dotOS 2.4 Release</System>
-	<Settings>Neo theme</Settings>
-	<Misc>Qs panel Customisation</Misc>
-	<SecurityPatch>July 05th 2018</SecurityPatch>
+	<System>dotOS 2.5 Final Release</System>
+	<Settings>Bug Fixes</Settings>
+	<Misc>Complete changlogs: https://blog.droidontime.com/changes/changelog%202.5.html</Misc>
+	<SecurityPatch>September 05th 2018</SecurityPatch>
   </Changelog>
 </ROM>
