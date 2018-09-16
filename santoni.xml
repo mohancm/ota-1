@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-  <VersionName>dotOS-O-v2.5-santoni-OFFICIAL-20180915</VersionName>
-  <VersionNumber type="integer">20180915</VersionNumber>
-  <DirectUrl>https://sourceforge.net/projects/dotos-2-x/files/santoni/dotOS-O-v2.5-santoni-OFFICIAL-20180915.zip</DirectUrl>
+  <VersionName>dotOS-O-v2.5-santoni-OFFICIAL-20180916</VersionName>
+  <VersionNumber type="integer">20180916</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/dotos-2-x/files/santoni/dotOS-O-v2.5-santoni-OFFICIAL-20180916.zip</DirectUrl>
   <Android>8.1.0</Android>
-  <CheckMD5>721e1307e2d4b0333b7534a1697414cf</CheckMD5>
-  <FileSize type="integer">456266035</FileSize>
+  <CheckMD5>87ed0734004424de8c6c0a68726e225f</CheckMD5>
+  <FileSize type="integer">527431588</FileSize>
   <Changelog>
 	<System>dotOS 2.5 Final Release</System>
 	<Settings>Bug Fixes</Settings>
